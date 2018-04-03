@@ -64,15 +64,15 @@ A questo punto si apre il pannello di controllo (figura 2)
 
 Si clicca su “Gestione Opendata” (figura 3)
 
-\ |IMG3|\  
+\ |IMG3|\ 
 
 (figura 3)
 
 \ |STYLE4|\ 
 
-E si apre questa schermata (figura 4)
+E si apre questa schermata con il puls pulsante “Gestione Metadato” e sotto “Gestione Opendata” (figura 4)
 
-\ |IMG4|\  
+\ |IMG4|\ 
 
 (figura 4)
 
@@ -89,7 +89,7 @@ Si clicca “Gestione Metadato” (figura 5) e si apre un pannello in cui è pos
 
 Quindi è possibile cominciare a creare un NUOVO metadato, cliccando sul tasto azzurro “Nuovo”.
 
-\ |IMG5|\  
+\ |IMG5|\ 
 
 (figura 5)
 
@@ -329,20 +329,20 @@ Supporto nelle procedure di caricamento
    :width: 568 px
 
 .. |IMG2| image:: static/index_2.png
-   :height: 316 px
-   :width: 770 px
+   :height: 385 px
+   :width: 934 px
 
 .. |IMG3| image:: static/index_3.png
-   :height: 324 px
-   :width: 304 px
+   :height: 322 px
+   :width: 260 px
 
 .. |IMG4| image:: static/index_4.png
-   :height: 222 px
-   :width: 390 px
+   :height: 364 px
+   :width: 266 px
 
 .. |IMG5| image:: static/index_5.png
-   :height: 498 px
-   :width: 361 px
+   :height: 808 px
+   :width: 430 px
 
 .. |IMG6| image:: static/index_6.png
    :height: 354 px
