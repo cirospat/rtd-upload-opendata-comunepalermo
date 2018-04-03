@@ -5,11 +5,6 @@
 
     indice
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
 .. _h5b36a6b5c6c377d66104f322337701c:
 
 Procedura per il caricamento dei dataset open data e metadati sul portale  open data del comune di Palermo 
