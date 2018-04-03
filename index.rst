@@ -42,10 +42,7 @@ Le procedure di caricamento dei dataset e dei metadati rispetto alla vecchia ver
 Accesso al pannello di controllo
 ================================
 
-.. _h206c11436e76575b3c6534755231911:
-
 Per accedere al pannello di controllo, abilitante al caricamento dei dataset e dei metadati, andare al link \ |LINK4|\  (1)
-===========================================================================================================================
 
 Cliccando sulla freccia rossa si aprono i campi per l’inserimento del numero della matricola e della password.
 
@@ -86,7 +83,7 @@ E si apre questa schermata (4)
 Inserimento dei metadati del dataset
 ====================================
 
-\ |STYLE6|\ 
+Premessa: come nella vecchia versione del pannello di caricamento dei dataset, anche nella nuova versione si costruisce prima il metadato che accompagna il dataset e successivamente si carica il dataset come allegato.
 
 Si clicca “Gestione Metadato” (5) e si apre un pannello in cui è possibile già vedere i dataset caricati. 
 
@@ -96,7 +93,7 @@ Quindi è possibile cominciare a creare un NUOVO metadato, cliccando sul tasto a
 
 (5)
 
-\ |STYLE7|\ 
+\ |STYLE6|\ 
 
 Si inizia, quindi a compilare i campi per la formazione dei metadati (6).
 
@@ -106,7 +103,7 @@ Una volta terminata la compilazione dei campi dei metadati, si clicca in basso s
 
 (6)
 
-\ |STYLE8|\ 
+\ |STYLE7|\ 
 
 .. _hd3a1c587b3c4f296811142c9336833:
 
@@ -123,7 +120,7 @@ Quindi si seleziona il titolo specifico del dataset che già abbiamo editato nel
 
 (7)
 
-\ |STYLE9|\ 
+\ |STYLE8|\ 
 
 Si procede a cliccare sul tasto nero “Allegati metadato” (8)
 
@@ -131,7 +128,7 @@ Si procede a cliccare sul tasto nero “Allegati metadato” (8)
 
 (8)
 
-\ |STYLE10|\ 
+\ |STYLE9|\ 
 
 Si apre un'altra schermata (9) e si procede a cliccare sul tasto azzurro NUOVO
 
@@ -139,7 +136,7 @@ Si apre un'altra schermata (9) e si procede a cliccare sul tasto azzurro NUOVO
 
 (9)
 
-\ |STYLE11|\ 
+\ |STYLE10|\ 
 
 Si apre la schermata (10) e si continua selezionando il campo a destra  --Seleziona un valore--
 
@@ -147,7 +144,7 @@ Si apre la schermata (10) e si continua selezionando il campo a destra  --Selezi
 
 (10)
 
-\ |STYLE12|\ 
+\ |STYLE11|\ 
 
 Si apre la schermata (11) e si seleziona il formato di dataset da caricare.
 
@@ -159,7 +156,7 @@ Una volta effettuate queste due operazioni si clicca sul tasto in basso a destra
 
 (11)
 
-\ |STYLE13|\ 
+\ |STYLE12|\ 
 
 La schermata successiva (12) si apre con un messaggio: “Inserimento avvenuto con successo”.
 
@@ -167,62 +164,62 @@ Quindi si passa all’ultima operazione che è quella di caricamento del file su
 
 Si clicca sul tasto in basso a destra “Carica allegato”  e si seleziona dal pc il file da caricare.
 
-\ |STYLE14|\ 
+\ |STYLE13|\ 
 
 ..  Note:: 
 
     Il nome del file deve essere scritto in minuscolo e senza alcun carattere particolare (come “_” ,  “/” ,  “,” “;”, ecc). 
     E’ consigliabile usare una parola breve, tanto il pannello di controllo provvederà in automatico a rinominare il file una volta caricato online.
 
-\ |STYLE15|\ 
+\ |STYLE14|\ 
 
 Una volta ultimato il caricamento del file, esso è reso immediatamente visibile nel portale online open data.
 
-\ |STYLE16|\ 
+\ |STYLE15|\ 
 
 \ |IMG12|\  
 
 (12)
 
-\ |STYLE17|\ 
+\ |STYLE16|\ 
 
 
 ..  Note:: 
 
     da tenere presente prima della procedura di caricamento del dataset nel pannello “allegati”
 
-\ |STYLE18|\ 
+\ |STYLE17|\ 
 
 Nel pannello di caricamento del dataset a destra c’è un’icona a forma di nuvoletta di colore azzurro.
 
 Cliccando su questa icona si ha la visualizzazione del dataset. 
 
-\ |STYLE19|\ 
+\ |STYLE18|\ 
 
 \ |IMG13|\ 
 
 (13)
 
-\ |STYLE20|\ 
+\ |STYLE19|\ 
 
-\ |STYLE21|\  cliccando su questa icona (a forma di nuvoletta di colore azzurro) verrà restituito un messaggio di errore come di seguito:
+\ |STYLE20|\  cliccando su questa icona (a forma di nuvoletta di colore azzurro) verrà restituito un messaggio di errore come di seguito:
 
 \ |IMG14|\ .
 
 (14)
 
-\ |STYLE22|\ 
+\ |STYLE21|\ 
 
 
 ..  Attention:: 
 
-    Una volta effettuato il caricamento del dataset può capitare che lo stesso caricamento non sia andato a buon fine, in questo caso \ |STYLE23|\  di: file caricato con il nome \ |STYLE24|\ 
+    Una volta effettuato il caricamento del dataset può capitare che lo stesso caricamento non sia andato a buon fine, in questo caso \ |STYLE22|\  di: file caricato con il nome \ |STYLE23|\ 
     
     Significa che il dataset, in formato CSV, non supera la validazione del pannello di caricamento.
 
-\ |STYLE25|\ 
+\ |STYLE24|\ 
 
-Al fine di evitare ciò è consigliabile, prima di effettuare il caricamento del dataset nel pannello di controllo, sottoporre il dataset ad una \ |STYLE26|\  da far fare ad un validatore online, ad esempio:
+Al fine di evitare ciò è consigliabile, prima di effettuare il caricamento del dataset nel pannello di controllo, sottoporre il dataset ad una \ |STYLE25|\  da far fare ad un validatore online, ad esempio:
 
 * \ |LINK5|\  (si procede, quindi, a caricare il file CSV in questo sito, seguendo le indicazioni del sito. Premendo il tasto VALIDATE si avrà la restituzione degli eventuali errori con la riga in cui si trovano tali errori, se presenti nel dataset).
 
@@ -230,7 +227,7 @@ Al fine di evitare ciò è consigliabile, prima di effettuare il caricamento del
 
 I due siti permettono di identificare e correggere eventuali errori nel dataset CSV e solo in seguito si continua con il caricamento nel pannello di controllo del portale open data.
 
-\ |STYLE27|\ 
+\ |STYLE26|\ 
 
 .. _h776b2b5d2452155273f43c233d771:
 
@@ -255,7 +252,7 @@ Supporto nelle procedure di caricamento
 
 .. |STYLE5| replace:: **↓**
 
-.. |STYLE6| replace:: *Premessa: come nella vecchia versione del pannello di caricamento dei dataset, anche nella nuova versione si costruisce prima il metadato che accompagna il dataset e successivamente si carica il dataset come allegato.*
+.. |STYLE6| replace:: **↓**
 
 .. |STYLE7| replace:: **↓**
 
@@ -283,21 +280,19 @@ Supporto nelle procedure di caricamento
 
 .. |STYLE19| replace:: **↓**
 
-.. |STYLE20| replace:: **↓**
+.. |STYLE20| replace:: **Se la procedura di caricamento non è andata a buon fine**
 
-.. |STYLE21| replace:: **Se la procedura di caricamento non è andata a buon fine**
+.. |STYLE21| replace:: **↓**
 
-.. |STYLE22| replace:: **↓**
+.. |STYLE22| replace:: **non viene visualizzato il messaggio**
 
-.. |STYLE23| replace:: **non viene visualizzato il messaggio**
+.. |STYLE23| replace:: **xxxxxxx.CSV.**
 
-.. |STYLE24| replace:: **xxxxxxx.CSV.**
+.. |STYLE24| replace:: **↓**
 
-.. |STYLE25| replace:: **↓**
+.. |STYLE25| replace:: **validazione**
 
-.. |STYLE26| replace:: **validazione**
-
-.. |STYLE27| replace:: **↓**
+.. |STYLE26| replace:: **↓**
 
 
 .. |LINK1| raw:: html
