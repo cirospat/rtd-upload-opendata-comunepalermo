@@ -10,45 +10,45 @@
 
 
 
-.. _h121478721e4f36707bf1d7a472bc:
+.. _h5b36a6b5c6c377d66104f322337701c:
 
-Procedura per il caricamento dei dataset open data e metadati su \ |LINK1|\  
-*****************************************************************************
-
-
-.. admonition:: Riferimenti per il caricamento
-
-    Ciro Spataro - \ |LINK2|\  - tel 091.7407340
-    Settore servizi alla città - Servizio Innovazione - U.O. Transizione al digitale
-
-.. _h2c1d74277104e41780968148427e:
+Procedura per il caricamento dei dataset open data e metadati sul portale  open data del comune di Palermo 
+***********************************************************************************************************
 
 
+..  seealso:: 
 
+    \ |STYLE0|\ 
+    \ |STYLE1|\  \ |LINK1|\ 
+    \ |STYLE2|\ 
+    \ |STYLE3|\ 
 
-.. _h6b6d102385e1c371914444e7e7f3b20:
+.. _h6544953174133332910222e767b4040:
 
-IL PORTALE OPEN DATA
-====================
+Il portale open data comunale
+=============================
 
-Il portale \ |LINK3|\  è il nuovo portale open data del comune di Palermo operativo dal dicembre 2017, in sostituzione della precedente versione \ |LINK4|\ .
+Il portale \ |LINK2|\  è il nuovo portale open data del comune di Palermo operativo dal dicembre 2017, in sostituzione della precedente versione \ |LINK3|\ .
 
 Il nuovo portale è conforme allo standard nazionale DCAT_AP_IT delle Linee Guida nazionali AGID per la valorizzazione del patrimonio informativo pubblico. Essere per un portale istituzionale conforme allo standard nazionale DCAT_AP_IT significa che i dataset del portale open data del comune di Palermo sono automaticamente esposti nel portale nazionale open data dati.gov.it e sempre automaticamente vengono esposti nel portale europeo dei dati in formato aperto europeandataportal.eu.
 
 Le procedure di caricamento dei dataset e dei metadati rispetto alla vecchia versione del portale sono mutate anche se non sono stravolte, e procedere al caricamento con il nuovo pannello di controllo risulta anche un attività più semplice.
 
-\ |STYLE0|\ 
+\ |STYLE4|\ 
 
-\ |STYLE1|\ 
+\ |STYLE5|\ 
 
-\ |STYLE2|\ 
+\ |STYLE6|\ 
 
-.. _h4125525501963e49612a2411c2b47:
+.. _h734343505f2432a79514f732138246c:
 
-ACCESSO AL PANNELLO DI CONTROLLO
+Accesso al pannello di controllo
 ================================
 
-Per accedere al pannello di controllo, abilitante al caricamento dei dataset e dei metadati, andare al link \ |LINK5|\  (1)
+.. _h206c11436e76575b3c6534755231911:
+
+Per accedere al pannello di controllo, abilitante al caricamento dei dataset e dei metadati, andare al link \ |LINK4|\  (1)
+===========================================================================================================================
 
 Cliccando sulla freccia rossa si aprono i campi per l’inserimento del numero della matricola e della password.
 
@@ -58,11 +58,11 @@ La password è quella che il referente comunale open data ha ricevuto dal webmas
 
 (1)
 
-\ |STYLE3|\ 
+\ |STYLE7|\ 
 
-\ |STYLE4|\ 
+\ |STYLE8|\ 
 
-\ |STYLE5|\ 
+\ |STYLE9|\ 
 
 A questo punto si apre il pannello di controllo (2)
 
@@ -70,11 +70,11 @@ A questo punto si apre il pannello di controllo (2)
 
 (2)
 
-\ |STYLE6|\ 
+\ |STYLE10|\ 
 
-\ |STYLE7|\ 
+\ |STYLE11|\ 
 
-\ |STYLE8|\ 
+\ |STYLE12|\ 
 
 Si clicca su “Gestione Opendata” (3)
 
@@ -82,11 +82,11 @@ Si clicca su “Gestione Opendata” (3)
 
 (3)
 
-\ |STYLE9|\ 
+\ |STYLE13|\ 
 
-\ |STYLE10|\ 
+\ |STYLE14|\ 
 
-\ |STYLE11|\ 
+\ |STYLE15|\ 
 
 E si apre questa schermata (4)
 
@@ -94,18 +94,18 @@ E si apre questa schermata (4)
 
 (4)
 
-\ |STYLE12|\ 
+\ |STYLE16|\ 
 
-\ |STYLE13|\ 
+\ |STYLE17|\ 
 
-\ |STYLE14|\ 
+\ |STYLE18|\ 
 
-.. _h922425740397a287f6d53255957425c:
+.. _h5646292b7e7c33555957333e7f414425:
 
-INSERIMENTO DEI METADATI DEL DATASET
+Inserimento dei metadati del dataset
 ====================================
 
-\ |STYLE15|\ 
+\ |STYLE19|\ 
 
 Si clicca “Gestione Metadato” (5) e si apre un pannello in cui è possibile già vedere i dataset caricati. 
 
@@ -115,11 +115,11 @@ Quindi è possibile cominciare a creare un NUOVO metadato, cliccando sul tasto a
 
 (5)
 
-\ |STYLE16|\ 
+\ |STYLE20|\ 
 
-\ |STYLE17|\ 
+\ |STYLE21|\ 
 
-\ |STYLE18|\ 
+\ |STYLE22|\ 
 
 Si inizia, quindi a compilare i campi per la formazione dei metadati (6).
 
@@ -129,15 +129,15 @@ Una volta terminata la compilazione dei campi dei metadati, si clicca in basso s
 
 (6)
 
-\ |STYLE19|\ 
+\ |STYLE23|\ 
 
-\ |STYLE20|\ 
+\ |STYLE24|\ 
 
-\ |STYLE21|\ 
+\ |STYLE25|\ 
 
-.. _h3d2a4714431d6a735df7b136b5c4839:
+.. _hd3a1c587b3c4f296811142c9336833:
 
-CARICAMENTO DEL DATASET
+Caricamento del dataset
 =======================
 
 Conclusa la fase di caricamento dei metadati, cioè le informazioni per spiegare cosa il dataset contiene al suo interno, si passa alla fase finale di caricamento del dataset.
@@ -150,9 +150,9 @@ Quindi si seleziona il titolo specifico del dataset che già abbiamo editato nel
 
 (7)
 
-\ |STYLE22|\ 
+\ |STYLE26|\ 
 
-\ |STYLE23|\ 
+\ |STYLE27|\ 
 
 Si procede a cliccare sul tasto nero “Allegati metadato” (8)
 
@@ -160,11 +160,11 @@ Si procede a cliccare sul tasto nero “Allegati metadato” (8)
 
 (8)
 
-\ |STYLE24|\ 
+\ |STYLE28|\ 
 
-\ |STYLE25|\ 
+\ |STYLE29|\ 
 
-\ |STYLE26|\ 
+\ |STYLE30|\ 
 
 Si apre un'altra schermata (9) e si procede a cliccare sul tasto azzurro NUOVO
 
@@ -172,11 +172,11 @@ Si apre un'altra schermata (9) e si procede a cliccare sul tasto azzurro NUOVO
 
 (9)
 
-\ |STYLE27|\ 
+\ |STYLE31|\ 
 
-\ |STYLE28|\ 
+\ |STYLE32|\ 
 
-\ |STYLE29|\ 
+\ |STYLE33|\ 
 
 Si apre la schermata (10) e si continua selezionando il campo a destra  --Seleziona un valore--
 
@@ -184,11 +184,11 @@ Si apre la schermata (10) e si continua selezionando il campo a destra  --Selezi
 
 (10)
 
-\ |STYLE30|\ 
+\ |STYLE34|\ 
 
-\ |STYLE31|\ 
+\ |STYLE35|\ 
 
-\ |STYLE32|\ 
+\ |STYLE36|\ 
 
 Si apre la schermata (11) e si seleziona il formato di dataset da caricare.
 
@@ -200,11 +200,11 @@ Una volta effettuate queste due operazioni si clicca sul tasto in basso a destra
 
 (11)
 
-\ |STYLE33|\ 
+\ |STYLE37|\ 
 
-\ |STYLE34|\ 
+\ |STYLE38|\ 
 
-\ |STYLE35|\ 
+\ |STYLE39|\ 
 
 La schermata successiva (12) si apre con un messaggio: “Inserimento avvenuto con successo”.
 
@@ -212,93 +212,93 @@ Quindi si passa all’ultima operazione che è quella di caricamento del file su
 
 Si clicca sul tasto in basso a destra “Carica allegato”  e si seleziona dal pc il file da caricare.
 
-\ |STYLE36|\ 
+\ |STYLE40|\ 
 
 ..  Note:: 
 
     Il nome del file deve essere scritto in minuscolo e senza alcun carattere particolare (come “_” ,  “/” ,  “,” “;”, ecc). 
     E’ consigliabile usare una parola breve, tanto il pannello di controllo provvederà in automatico a rinominare il file una volta caricato online.
 
-\ |STYLE37|\ 
+\ |STYLE41|\ 
 
 Una volta ultimato il caricamento del file, esso è reso immediatamente visibile nel portale online open data.
 
-\ |STYLE38|\ 
+\ |STYLE42|\ 
 
 \ |IMG12|\  
 
 (12)
 
-\ |STYLE39|\ 
+\ |STYLE43|\ 
 
 
 ..  Note:: 
 
     da tenere presente prima della procedura di caricamento del dataset nel pannello “allegati”
 
-\ |STYLE40|\ 
+\ |STYLE44|\ 
 
 Nel pannello di caricamento del dataset a destra c’è un’icona a forma di nuvoletta di colore azzurro.
 
 Cliccando su questa icona si ha la visualizzazione del dataset. 
 
-\ |STYLE41|\ 
+\ |STYLE45|\ 
 
 \ |IMG13|\ 
 
 (13)
 
-\ |STYLE42|\ 
+\ |STYLE46|\ 
 
-\ |STYLE43|\  cliccando su questa icona (a forma di nuvoletta di colore azzurro) verrà restituito un messaggio di errore come di seguito:
+\ |STYLE47|\  cliccando su questa icona (a forma di nuvoletta di colore azzurro) verrà restituito un messaggio di errore come di seguito:
 
 \ |IMG14|\ .
 
 (14)
 
-\ |STYLE44|\ 
+\ |STYLE48|\ 
 
 
 ..  Attention:: 
 
-    Una volta effettuato il caricamento del dataset può capitare che lo stesso caricamento non sia andato a buon fine, in questo caso \ |STYLE45|\  di: file caricato con il nome \ |STYLE46|\ 
+    Una volta effettuato il caricamento del dataset può capitare che lo stesso caricamento non sia andato a buon fine, in questo caso \ |STYLE49|\  di: file caricato con il nome \ |STYLE50|\ 
     
     Significa che il dataset, in formato CSV, non supera la validazione del pannello di caricamento.
 
-\ |STYLE47|\ 
+\ |STYLE51|\ 
 
-Al fine di evitare ciò è consigliabile, prima di effettuare il caricamento del dataset nel pannello di controllo, sottoporre il dataset ad una \ |STYLE48|\  da far fare ad un validatore online, ad esempio:
+Al fine di evitare ciò è consigliabile, prima di effettuare il caricamento del dataset nel pannello di controllo, sottoporre il dataset ad una \ |STYLE52|\  da far fare ad un validatore online, ad esempio:
 
-* \ |LINK6|\  (si procede, quindi, a caricare il file CSV in questo sito, seguendo le indicazioni del sito. Premendo il tasto VALIDATE si avrà la restituzione degli eventuali errori con la riga in cui si trovano tali errori, se presenti nel dataset).
+* \ |LINK5|\  (si procede, quindi, a caricare il file CSV in questo sito, seguendo le indicazioni del sito. Premendo il tasto VALIDATE si avrà la restituzione degli eventuali errori con la riga in cui si trovano tali errori, se presenti nel dataset).
 
-* \ |LINK7|\ . 
+* \ |LINK6|\ . 
 
 I due siti permettono di identificare e correggere eventuali errori nel dataset CSV e solo in seguito si continua con il caricamento nel pannello di controllo del portale open data.
 
-\ |STYLE49|\ 
+\ |STYLE53|\ 
 
-\ |STYLE50|\ 
+\ |STYLE54|\ 
 
-\ |STYLE51|\ 
+\ |STYLE55|\ 
 
-.. _h44204a3db7b62b7c43341d7c573670:
+.. _h7979727d48196c2583a6b5f64296947:
 
-SUPPORTO NELLE PROCEDURE DI CARICAMENTO
-=======================================
+Supporto nelle procedure di caicamento
+======================================
 
-[Per eventuali problemi riscontrati in questa procedura di validazione del dataset, si potrà sempre fare riferimento, per aiuto, a Ciro Spataro \ |LINK8|\  - tel. 0917407340] 
+[Per eventuali problemi riscontrati in questa procedura di validazione del dataset, si potrà sempre fare riferimento, per aiuto, a Ciro Spataro \ |LINK7|\  - tel. 0917407340] 
 
 
 .. bottom of content
 
 
-.. |STYLE0| replace:: **↓**
+.. |STYLE0| replace:: **Riferimenti per il caricamento**
 
-.. |STYLE1| replace:: **↓**
+.. |STYLE1| replace:: **Ciro Spataro -**
 
-.. |STYLE2| replace:: **↓**
+.. |STYLE2| replace:: **tel. 091.7407340**
 
-.. |STYLE3| replace:: **↓**
+.. |STYLE3| replace:: **Settore Servizi alla città - Servizio Innovazione - U.O. Transizione al digitale**
 
 .. |STYLE4| replace:: **↓**
 
@@ -322,7 +322,7 @@ SUPPORTO NELLE PROCEDURE DI CARICAMENTO
 
 .. |STYLE14| replace:: **↓**
 
-.. |STYLE15| replace:: *Premessa: come nella vecchia versione del pannello di caricamento dei dataset, anche nella nuova versione si costruisce prima il metadato che accompagna il dataset e successivamente si carica il dataset come allegato.*
+.. |STYLE15| replace:: **↓**
 
 .. |STYLE16| replace:: **↓**
 
@@ -330,7 +330,7 @@ SUPPORTO NELLE PROCEDURE DI CARICAMENTO
 
 .. |STYLE18| replace:: **↓**
 
-.. |STYLE19| replace:: **↓**
+.. |STYLE19| replace:: *Premessa: come nella vecchia versione del pannello di caricamento dei dataset, anche nella nuova versione si costruisce prima il metadato che accompagna il dataset e successivamente si carica il dataset come allegato.*
 
 .. |STYLE20| replace:: **↓**
 
@@ -378,54 +378,58 @@ SUPPORTO NELLE PROCEDURE DI CARICAMENTO
 
 .. |STYLE42| replace:: **↓**
 
-.. |STYLE43| replace:: **Se la procedura di caricamento non è andata a buon fine**
+.. |STYLE43| replace:: **↓**
 
 .. |STYLE44| replace:: **↓**
 
-.. |STYLE45| replace:: **non viene visualizzato il messaggio**
+.. |STYLE45| replace:: **↓**
 
-.. |STYLE46| replace:: **xxxxxxx.CSV.**
+.. |STYLE46| replace:: **↓**
 
-.. |STYLE47| replace:: **↓**
+.. |STYLE47| replace:: **Se la procedura di caricamento non è andata a buon fine**
 
-.. |STYLE48| replace:: **validazione**
+.. |STYLE48| replace:: **↓**
 
-.. |STYLE49| replace:: **↓**
+.. |STYLE49| replace:: **non viene visualizzato il messaggio**
 
-.. |STYLE50| replace:: **↓**
+.. |STYLE50| replace:: **xxxxxxx.CSV.**
 
 .. |STYLE51| replace:: **↓**
+
+.. |STYLE52| replace:: **validazione**
+
+.. |STYLE53| replace:: **↓**
+
+.. |STYLE54| replace:: **↓**
+
+.. |STYLE55| replace:: **↓**
 
 
 .. |LINK1| raw:: html
 
-    <a href="https://opendata.comune.palermo.it/" target="_blank">opendata.comune.palermo.it</a>
+    <a href="mailto:c.spataro@comune.palermo.it">c.spataro@comune.palermo.it</a>
 
 .. |LINK2| raw:: html
 
-    <a href="mailto:c.spataro@comune.palermo.it">c.spataro@comune.palermo.it</a>
+    <a href="https://opendata.comune.palermo.it/" target="_blank">https://opendata.comune.palermo.it/</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://opendata.comune.palermo.it/" target="_blank">https://opendata.comune.palermo.it/</a>
+    <a href="https://www.comune.palermo.it/opendata.php" target="_blank">https://www.comune.palermo.it/opendata.php</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata.php" target="_blank">https://www.comune.palermo.it/opendata.php</a>
+    <a href="https://www.comune.palermo.it/admin/" target="_blank">https://www.comune.palermo.it/admin/</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://www.comune.palermo.it/admin/" target="_blank">https://www.comune.palermo.it/admin/</a>
+    <a href="https://csvlint.io/" target="_blank">https://csvlint.io</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://csvlint.io/" target="_blank">https://csvlint.io</a>
-
-.. |LINK7| raw:: html
-
     <a href="https://try.goodtables.io/" target="_blank">https://try.goodtables.io</a>
 
-.. |LINK8| raw:: html
+.. |LINK7| raw:: html
 
     <a href="mailto:c.spataro@comune.palermo.it">c.spataro@comune.palermo.it</a>
 
