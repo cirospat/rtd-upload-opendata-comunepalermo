@@ -20,8 +20,8 @@ Procedura per il caricamento dei dataset open data e metadati sul portale  open 
 
     \ |STYLE0|\ 
     
-    Ciro Spataro - \ |LINK1|\ 
-    tel. 091.7407340
+    Ciro Spataro - \ |LINK1|\  - tel. 091.7407340
+    
     Settore Servizi alla città - Servizio Innovazione - U.O. Transizione al digitale
 
 .. _h6544953174133332910222e767b4040:
@@ -42,7 +42,7 @@ Le procedure di caricamento dei dataset e dei metadati rispetto alla vecchia ver
 Accesso al pannello di controllo
 ================================
 
-Per accedere al pannello di controllo, abilitante al caricamento dei dataset e dei metadati, andare al link \ |LINK4|\  (1)
+Per accedere al pannello di controllo, abilitante al caricamento dei dataset e dei metadati, andare al link \ |LINK4|\  (figura 1).
 
 Cliccando sulla freccia rossa si aprono i campi per l’inserimento del numero della matricola e della password.
 
@@ -50,31 +50,31 @@ La password è quella che il referente comunale open data ha ricevuto dal webmas
 
 \ |IMG1|\  
 
-(1)
+(figura 1)
 
 \ |STYLE2|\ 
 
-A questo punto si apre il pannello di controllo (2)
+A questo punto si apre il pannello di controllo (figura 2)
 
 \ |IMG2|\ 
 
-(2)
+(figura 2)
 
 \ |STYLE3|\ 
 
-Si clicca su “Gestione Opendata” (3)
+Si clicca su “Gestione Opendata” (figura 3)
 
 \ |IMG3|\  
 
-(3)
+(figura 3)
 
 \ |STYLE4|\ 
 
-E si apre questa schermata (4)
+E si apre questa schermata (figura 4)
 
 \ |IMG4|\  
 
-(4)
+(figura 4)
 
 \ |STYLE5|\ 
 
@@ -85,23 +85,23 @@ Inserimento dei metadati del dataset
 
 Premessa: come nella vecchia versione del pannello di caricamento dei dataset, anche nella nuova versione si costruisce prima il metadato che accompagna il dataset e successivamente si carica il dataset come allegato.
 
-Si clicca “Gestione Metadato” (5) e si apre un pannello in cui è possibile già vedere i dataset caricati. 
+Si clicca “Gestione Metadato” (figura 5) e si apre un pannello in cui è possibile già vedere i dataset caricati. 
 
 Quindi è possibile cominciare a creare un NUOVO metadato, cliccando sul tasto azzurro “Nuovo”.
 
 \ |IMG5|\  
 
-(5)
+(figura 5)
 
 \ |STYLE6|\ 
 
-Si inizia, quindi a compilare i campi per la formazione dei metadati (6).
+Si inizia, quindi a compilare i campi per la formazione dei metadati (figura 6).
 
 Una volta terminata la compilazione dei campi dei metadati, si clicca in basso su “Conferma immissione”.
 
 \ |IMG6|\  
 
-(6)
+(figura 6)
 
 \ |STYLE7|\ 
 
@@ -112,41 +112,41 @@ Caricamento del dataset
 
 Conclusa la fase di caricamento dei metadati, cioè le informazioni per spiegare cosa il dataset contiene al suo interno, si passa alla fase finale di caricamento del dataset.
 
-Per attivare il caricamento, si parte dal catalogo dei titoli dei dataset elencati nella schermata (7) che si presenta subito dopo aver concluso la fase di inserimento dei metadati.
+Per attivare il caricamento, si parte dal catalogo dei titoli dei dataset elencati nella schermata (figura 7) che si presenta subito dopo aver concluso la fase di inserimento dei metadati.
 
 Quindi si seleziona il titolo specifico del dataset che già abbiamo editato nella fase precedente e si clicca nel logo a forma di nuvoletta di colore azzurro con la freccia verso l’alto.
 
 \ |IMG7|\ 
 
-(7)
+(figura 7)
 
 \ |STYLE8|\ 
 
-Si procede a cliccare sul tasto nero “Allegati metadato” (8)
+Si procede a cliccare sul tasto nero “Allegati metadato” (figura 8)
 
 \ |IMG8|\  
 
-(8)
+(figura 8)
 
 \ |STYLE9|\ 
 
-Si apre un'altra schermata (9) e si procede a cliccare sul tasto azzurro NUOVO
+Si apre un'altra schermata (figura 9) e si procede a cliccare sul tasto azzurro NUOVO
 
 \ |IMG9|\  
 
-(9)
+(figura 9)
 
 \ |STYLE10|\ 
 
-Si apre la schermata (10) e si continua selezionando il campo a destra  --Seleziona un valore--
+Si apre la schermata (figura 10) e si continua selezionando il campo a destra  --Seleziona un valore--
 
 \ |IMG10|\  
 
-(10)
+(figura 10)
 
 \ |STYLE11|\ 
 
-Si apre la schermata (11) e si seleziona il formato di dataset da caricare.
+Si apre la schermata (figura 11) e si seleziona il formato di dataset da caricare.
 
 Nella stessa schermata si procede a inserire un breve testo nel campo NOTE. Si può anche scrivere il titolo del dataset, lo stesso titolo utilizzato nella parte precedente per la titolazione del dataset.
 
@@ -154,11 +154,11 @@ Una volta effettuate queste due operazioni si clicca sul tasto in basso a destra
 
 \ |IMG11|\  
 
-(11)
+(figura 11)
 
 \ |STYLE12|\ 
 
-La schermata successiva (12) si apre con un messaggio: “Inserimento avvenuto con successo”.
+La schermata successiva (figura 12) si apre con un messaggio: “Inserimento avvenuto con successo”.
 
 Quindi si passa all’ultima operazione che è quella di caricamento del file sul pannello di controllo. 
 
@@ -179,7 +179,7 @@ Una volta ultimato il caricamento del file, esso è reso immediatamente visibile
 
 \ |IMG12|\  
 
-(12)
+(figura 12)
 
 \ |STYLE16|\ 
 
@@ -190,7 +190,7 @@ Una volta ultimato il caricamento del file, esso è reso immediatamente visibile
 
 \ |STYLE17|\ 
 
-Nel pannello di caricamento del dataset a destra c’è un’icona a forma di nuvoletta di colore azzurro.
+Nel pannello di caricamento del dataset a destra c’è un’icona a forma di nuvoletta di colore azzurro (figura 13).
 
 Cliccando su questa icona si ha la visualizzazione del dataset. 
 
@@ -198,7 +198,7 @@ Cliccando su questa icona si ha la visualizzazione del dataset.
 
 \ |IMG13|\ 
 
-(13)
+(figura 13)
 
 \ |STYLE19|\ 
 
