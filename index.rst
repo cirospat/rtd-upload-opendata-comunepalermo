@@ -26,7 +26,7 @@ Il portale open data comunale
 
 Il portale \ |LINK2|\  è il nuovo portale open data del comune di Palermo operativo dal dicembre 2017, in sostituzione della precedente versione \ |LINK3|\ .
 
-Il nuovo portale è conforme allo standard nazionale DCAT_AP_IT delle Linee Guida nazionali AGID per la valorizzazione del patrimonio informativo pubblico. Essere per un portale istituzionale conforme allo standard nazionale DCAT_AP_IT significa che i dataset del portale open data del comune di Palermo sono automaticamente esposti nel portale nazionale open data dati.gov.it e sempre automaticamente vengono esposti nel portale europeo dei dati in formato aperto europeandataportal.eu.
+Il nuovo portale è conforme allo standard nazionale DCAT_AP_IT delle Linee Guida nazionali AGID per la valorizzazione del patrimonio informativo pubblico. Essere per un portale istituzionale conforme allo standard nazionale DCAT_AP_IT significa che i dataset del portale open data del comune di Palermo sono automaticamente esposti nel portale nazionale open data \ |LINK4|\  e sempre automaticamente vengono esposti nel portale europeo dei dati in formato aperto \ |LINK5|\ . 
 
 Le procedure di caricamento dei dataset e dei metadati rispetto alla vecchia versione del portale sono mutate anche se non sono stravolte, e procedere al caricamento con il nuovo pannello di controllo risulta anche un attività più semplice.
 
@@ -37,7 +37,7 @@ Le procedure di caricamento dei dataset e dei metadati rispetto alla vecchia ver
 Accesso al pannello di controllo
 ================================
 
-Per accedere al pannello di controllo, abilitante al caricamento dei dataset e dei metadati, andare al link \ |LINK4|\  (figura 1).
+Per accedere al pannello di controllo, abilitante al caricamento dei dataset e dei metadati, andare al link \ |LINK6|\  (figura 1).
 
 Cliccando sulla freccia rossa si aprono i campi per l’inserimento del numero della matricola e della password.
 
@@ -221,9 +221,9 @@ Validazione dei formati CSV prima del caricamento
 
 Al fine di evitare quanto sopra indicato  è consigliabile, prima di effettuare il caricamento del dataset nel pannello di controllo, sottoporre il dataset ad una \ |STYLE25|\  da far fare ad un validatore online. Ecco due esempi di validatori online:
 
-* \ |LINK5|\  (si procede, quindi, a caricare il file \ |STYLE26|\  in questo sito, seguendo le indicazioni del sito. Premendo il tasto ``VALIDATE`` si avrà la restituzione degli eventuali errori con la riga in cui si trovano tali errori, se presenti nel dataset).
+* \ |LINK7|\  (si procede, quindi, a caricare il file \ |STYLE26|\  in questo sito, seguendo le indicazioni del sito. Premendo il tasto ``VALIDATE`` si avrà la restituzione degli eventuali errori con la riga in cui si trovano tali errori, se presenti nel dataset).
 
-* \ |LINK6|\ . 
+* \ |LINK8|\ . 
 
 I due siti permettono di identificare e correggere eventuali errori nel dataset in formato \ |STYLE27|\  e solo in seguito si continua con il caricamento nel pannello di controllo del portale open data.
 
@@ -234,7 +234,7 @@ I due siti permettono di identificare e correggere eventuali errori nel dataset 
 Supporto nelle procedure di caricamento
 =======================================
 
-[Per eventuali problemi riscontrati in questa procedura di validazione del dataset, si potrà sempre fare riferimento, per aiuto, a Ciro Spataro \ |LINK7|\  - tel. 0917407340] 
+[Per eventuali problemi riscontrati in questa procedura di validazione del dataset, si potrà sempre fare riferimento, per aiuto, a Ciro Spataro \ |LINK9|\  - tel. 0917407340] 
 
 
 .. bottom of content
@@ -313,17 +313,25 @@ Supporto nelle procedure di caricamento
 
 .. |LINK4| raw:: html
 
-    <a href="https://www.comune.palermo.it/admin/" target="_blank">https://www.comune.palermo.it/admin/</a>
+    <a href="https://www.dati.gov.it/" target="_blank">https://www.dati.gov.it/</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://csvlint.io/" target="_blank">https://csvlint.io</a>
+    <a href="http://europeandataportal.eu" target="_blank">http://europeandataportal.eu</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://try.goodtables.io/" target="_blank">https://try.goodtables.io</a>
+    <a href="https://www.comune.palermo.it/admin/" target="_blank">https://www.comune.palermo.it/admin/</a>
 
 .. |LINK7| raw:: html
+
+    <a href="https://csvlint.io/" target="_blank">https://csvlint.io</a>
+
+.. |LINK8| raw:: html
+
+    <a href="https://try.goodtables.io/" target="_blank">https://try.goodtables.io</a>
+
+.. |LINK9| raw:: html
 
     <a href="mailto:c.spataro@comune.palermo.it">c.spataro@comune.palermo.it</a>
 
