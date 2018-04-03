@@ -219,15 +219,20 @@ Cliccando su questa icona si ha la visualizzazione del dataset.
 
 \ |STYLE24|\ 
 
-Al fine di evitare ciò è consigliabile, prima di effettuare il caricamento del dataset nel pannello di controllo, sottoporre il dataset ad una \ |STYLE25|\  da far fare ad un validatore online, ad esempio:
+.. _h5864f125f7387b28793484c584721:
 
-* \ |LINK5|\  (si procede, quindi, a caricare il file CSV in questo sito, seguendo le indicazioni del sito. Premendo il tasto VALIDATE si avrà la restituzione degli eventuali errori con la riga in cui si trovano tali errori, se presenti nel dataset).
+Validazione dei formati CSV prima del caricamento
+-------------------------------------------------
+
+Al fine di evitare quanto sopra indicato  è consigliabile, prima di effettuare il caricamento del dataset nel pannello di controllo, sottoporre il dataset ad una \ |STYLE25|\  da far fare ad un validatore online. Ecco due esempi di validatori online:
+
+* \ |LINK5|\  (si procede, quindi, a caricare il file \ |STYLE26|\  in questo sito, seguendo le indicazioni del sito. Premendo il tasto ``VALIDATE`` si avrà la restituzione degli eventuali errori con la riga in cui si trovano tali errori, se presenti nel dataset).
 
 * \ |LINK6|\ . 
 
-I due siti permettono di identificare e correggere eventuali errori nel dataset CSV e solo in seguito si continua con il caricamento nel pannello di controllo del portale open data.
+I due siti permettono di identificare e correggere eventuali errori nel dataset in formato \ |STYLE27|\  e solo in seguito si continua con il caricamento nel pannello di controllo del portale open data.
 
-\ |STYLE26|\ 
+\ |STYLE28|\ 
 
 .. _h776b2b5d2452155273f43c233d771:
 
@@ -292,7 +297,11 @@ Supporto nelle procedure di caricamento
 
 .. |STYLE25| replace:: **validazione**
 
-.. |STYLE26| replace:: **↓**
+.. |STYLE26| replace:: **CSV**
+
+.. |STYLE27| replace:: **CSV**
+
+.. |STYLE28| replace:: **↓**
 
 
 .. |LINK1| raw:: html
