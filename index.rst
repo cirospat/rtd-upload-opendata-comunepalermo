@@ -5,10 +5,10 @@
 
     indice
 
-.. _h5b36a6b5c6c377d66104f322337701c:
+.. _h79384848122f38796644634b22416366:
 
-Procedura per il caricamento dei dataset open data e metadati sul portale  open data del comune di Palermo 
-***********************************************************************************************************
+Procedura per il caricamento dei dataset open data e metadati sul portale del comune di Palermo 
+************************************************************************************************
 
 
 ..  seealso:: 
@@ -26,7 +26,7 @@ Il portale open data comunale
 
 Il portale \ |LINK2|\  è il nuovo portale open data del comune di Palermo operativo dal dicembre 2017, in sostituzione della precedente versione \ |LINK3|\ .
 
-Il nuovo portale è conforme allo standard nazionale DCAT_AP_IT delle Linee Guida nazionali AGID per la valorizzazione del patrimonio informativo pubblico. Essere per un portale istituzionale conforme allo standard nazionale DCAT_AP_IT significa che i dataset del portale open data del comune di Palermo sono automaticamente esposti nel portale nazionale open data \ |LINK4|\  e sempre automaticamente vengono esposti nel portale europeo dei dati in formato aperto \ |LINK5|\ . 
+Il nuovo portale è conforme allo standard nazionale DCAT_AP_IT delle Linee Guida nazionali AGID per la valorizzazione del patrimonio informativo pubblico. Essere per un portale istituzionale conforme allo standard nazionale DCAT_AP_IT significa che i dataset del portale open data del comune di Palermo sono automaticamente esposti nel portale nazionale open data \ |LINK4|\  upe sempre automaticamente vengono esposti nel portale europeo dei dati in formato aperto \ |LINK5|\ . 
 
 Le procedure di caricamento dei dataset e dei metadati rispetto alla vecchia versione del portale sono mutate anche se non sono stravolte, e procedere al caricamento con il nuovo pannello di controllo risulta anche un attività più semplice.
 
