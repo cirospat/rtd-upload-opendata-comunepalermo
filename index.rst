@@ -214,20 +214,29 @@ Cliccando su questa icona si ha la visualizzazione del dataset.
 
 \ |STYLE24|\ 
 
+.. _h395d28166954667e4b22141354723639:
+
+Il dataset in formato CSV
+=========================
+
+Se il formato del dataset è ``CSV`` è auspicabile impostare come separatore di campi, il “punto e virgola” ``;`` al fine di permettere la validazione con esito positivo  dello stesso dataset da parte del software che gestisce il caricamento online.
+
+\ |STYLE25|\ 
+
 .. _h5864f125f7387b28793484c584721:
 
 Validazione dei formati CSV prima del caricamento
 -------------------------------------------------
 
-Al fine di evitare quanto sopra indicato  è consigliabile, prima di effettuare il caricamento del dataset nel pannello di controllo, sottoporre il dataset ad una \ |STYLE25|\  da far fare ad un validatore online. Ecco due esempi di validatori online:
+Al fine di evitare quanto sopra indicato  è consigliabile, prima di effettuare il caricamento del dataset nel pannello di controllo, sottoporre il dataset ad una \ |STYLE26|\  da far fare ad un validatore online. Ecco due esempi di validatori online:
 
-* \ |LINK7|\  (si procede, quindi, a caricare il file \ |STYLE26|\  in questo sito, seguendo le indicazioni del sito. Premendo il tasto ``VALIDATE`` si avrà la restituzione degli eventuali errori con la riga in cui si trovano tali errori, se presenti nel dataset).
+* \ |LINK7|\  (si procede, quindi, a caricare il file \ |STYLE27|\  in questo sito, seguendo le indicazioni del sito. Premendo il tasto ``VALIDATE`` si avrà la restituzione degli eventuali errori con la riga in cui si trovano tali errori, se presenti nel dataset).
 
 * \ |LINK8|\ . 
 
-I due siti permettono di identificare e correggere eventuali errori nel dataset in formato \ |STYLE27|\  e solo in seguito si continua con il caricamento nel pannello di controllo del portale open data.
+I due siti permettono di identificare e correggere eventuali errori nel dataset in formato \ |STYLE28|\  e solo in seguito si continua con il caricamento nel pannello di controllo del portale open data.
 
-\ |STYLE28|\ 
+\ |STYLE29|\ 
 
 .. _h776b2b5d2452155273f43c233d771:
 
@@ -290,13 +299,15 @@ Supporto nelle procedure di caricamento
 
 .. |STYLE24| replace:: **↓**
 
-.. |STYLE25| replace:: **validazione**
+.. |STYLE25| replace:: **↓**
 
-.. |STYLE26| replace:: **CSV**
+.. |STYLE26| replace:: **validazione**
 
 .. |STYLE27| replace:: **CSV**
 
-.. |STYLE28| replace:: **↓**
+.. |STYLE28| replace:: **CSV**
+
+.. |STYLE29| replace:: **↓**
 
 
 .. |LINK1| raw:: html
