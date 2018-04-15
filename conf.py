@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Caricamento dataset e metadati nel portale open data del comune di Palermo'
+project = 'Caricamento dataset open data del comune di Palermo'
 copyright = '[licenza CC-BY cirospat-SA]'
 
 # The name of the Pygments (syntax highlighting) style to use.
