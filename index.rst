@@ -43,9 +43,14 @@ Cliccando sulla freccia rossa si aprono i campi per l’inserimento del numero d
 
 La password è quella che il referente comunale open data ha ricevuto dal webmaster e che è stata utilizzata per i precedenti caricamenti di dataset sulla vecchia versione del portale open data.
 
-\ |IMG1|\  
+
++----------+
+|\ |IMG1|\ |
++----------+
 
 (figura 1)
+
+ 
 
 \ |STYLE2|\ 
 
