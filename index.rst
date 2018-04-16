@@ -135,7 +135,7 @@ Quindi si seleziona il titolo specifico del dataset che già abbiamo editato nel
 +----------+
 |\ |IMG7|\ |
 |          |
-|(figira 7)|
+|(figura 7)|
 +----------+
 
 \ |STYLE8|\ 
