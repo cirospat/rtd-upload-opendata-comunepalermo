@@ -54,25 +54,34 @@ La password è quella che il referente comunale open data ha ricevuto dal webmas
 
 A questo punto si apre il pannello di controllo (figura 2)
 
-\ |IMG2|\ 
 
-(figura 2)
++----------+
+|\ |IMG2|\ |
+|          |
+|(figura 2)|
++----------+
 
 \ |STYLE3|\ 
 
 Si clicca su “Gestione Opendata” (figura 3)
 
-\ |IMG3|\ 
 
-(figura 3)
++----------+
+|\ |IMG3|\ |
+|          |
+|(figura 3)|
++----------+
 
 \ |STYLE4|\ 
 
 E si apre questa schermata con il puls pulsante “Gestione Metadato” e sotto “Gestione Opendata” (figura 4)
 
-\ |IMG4|\ 
 
-(figura 4)
++----------+
+|\ |IMG4|\ |
+|          |
+|(figura 4)|
++----------+
 
 \ |STYLE5|\ 
 
@@ -355,8 +364,8 @@ Supporto nelle procedure di caricamento
    :width: 568 px
 
 .. |IMG2| image:: static/index_2.png
-   :height: 385 px
-   :width: 934 px
+   :height: 378 px
+   :width: 920 px
 
 .. |IMG3| image:: static/index_3.png
    :height: 322 px
