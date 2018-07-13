@@ -1,0 +1,72 @@
+.wy-table-responsive table td, .wy-table-responsive table th {
+   white-space: inherit;
+}
+
+.wy-table-responsive table th {
+   background-color: #f0f0f0;
+}
+
+.line-block, .docutils.footnote {
+    line-height: 24px;
+}
+
+.admonition {
+    margin-bottom: 20px;
+    line-height:24px;
+}
+
+.admonition > *:not(:first-child){
+    /* draw a boder around a admonition */
+    border-left: solid 1px #b59e9e;
+    border-right: solid 1px #b59e9e;
+    padding: 12px;
+    margin: -12px -12px -12px -12px;
+    margin-bottom: -12px !important;
+}
+.admonition > .last, .admonition- > .last{
+    /* draw a boder around a admonition */
+    border-bottom: solid 1px #b59e9e !important;
+}
+
+.btn-neutral {
+    background-color: #ff5a00 !important;
+    color: #fff !important;
+}
+
+h1, h2, h3 {
+    color: #ff5a00 !important;
+}
+
+.wy-side-nav-search {
+    background-color: #FF6300;
+}
+
+/* testo caption menu sx */
+.wy-nav-side {color: #FF8000;}
+
+
+/* adatta il nav-content a fullhd e si elimina lo spazio vuoto piccolo a destra */
+.wy-nav-content {max-width: 1920px;} 
+
+
+/* disattiva testo latest  menu sx */
+.wy-side-nav-search>div.version {    display: none;}
+
+/* mobile */
+.wy-nav-top {background: linear-gradient(#ffaf05, #ffd105); }
+
+/* lo sfondo a dx dopo il testo */
+.wy-body-for-nav {background: #ffffff; }
+
+/* vari stili di formattazione a questo link: 
+   https://github.com/gbvitrano/HfcQGIS/blob/master/static/theme_overrides.css */
+
+/* formattare la barra del codice [`` ... ``] quella inclusa tr ai doppi apici */
+/* code {
+white-space: normal !important;
+border: 0px !important;
+background-color: #f2f2f2 !important;
+}  */
+
+/* dare colore di sfondo al Blocco pbubblicita */
+.wy-body-for-nav .keep-us-sustainable {color: #404040; background-color: #404040;}
