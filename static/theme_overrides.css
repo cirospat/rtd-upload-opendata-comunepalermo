@@ -49,9 +49,6 @@ h1, h2, h3 {
 .wy-nav-content {max-width: 1920px;} 
 
 
-/* disattiva testo latest  menu sx */
-.wy-side-nav-search>div.version {    display: none;}
-
 /* mobile */
 .wy-nav-top {background: linear-gradient(#ffaf05, #ffd105); }
 
