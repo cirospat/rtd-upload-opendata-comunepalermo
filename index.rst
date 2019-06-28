@@ -280,12 +280,12 @@ Validazione dei formati CSV prima del caricamento
 
     Al fine di evitare quanto sopra indicato  è consigliabile, prima di effettuare il caricamento del dataset nel pannello di controllo, sottoporre il dataset ad una \ |STYLE44|\  da far fare ad un validatore online. Ecco due esempi di validatori online:
     
-    * \ |LINK9|\  (si procede, quindi, a caricare il file \ |STYLE45|\  in questo sito, seguendo le indicazioni del sito. Premendo il tasto \`\`\ |STYLE46|\ \`\` si avrà la restituzione degli eventuali errori con la riga in cui si trovano tali errori, se presenti nel dataset).
+    * \ |LINK9|\  (si procede, quindi, a caricare il file \ |STYLE45|\  in questo sito, seguendo le indicazioni del sito. Premendo il tasto ``VALIDATE`` si avrà la restituzione degli eventuali errori con la riga in cui si trovano tali errori, se presenti nel dataset).
     
     * \ |LINK10|\ . 
-    I due siti permettono di identificare e correggere eventuali errori nel dataset in formato \ |STYLE47|\  e solo in seguito si continua con il caricamento nel pannello di controllo del portale open data.
+    I due siti permettono di identificare e correggere eventuali errori nel dataset in formato \ |STYLE46|\  e solo in seguito si continua con il caricamento nel pannello di controllo del portale open data.
 
-\ |STYLE48|\ 
+\ |STYLE47|\ 
 
 .. _h776b2b5d2452155273f43c233d771:
 
@@ -390,11 +390,9 @@ Supporto nelle procedure di caricamento
 
 .. |STYLE45| replace:: **CSV**
 
-.. |STYLE46| replace:: **VALIDATE**
+.. |STYLE46| replace:: **CSV**
 
-.. |STYLE47| replace:: **CSV**
-
-.. |STYLE48| replace:: **↓**
+.. |STYLE47| replace:: **↓**
 
 
 .. |LINK1| raw:: html
