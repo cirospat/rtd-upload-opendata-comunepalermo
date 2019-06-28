@@ -1,21 +1,24 @@
 
+.. _h79384848122f38796644634b22416366:
+
+Procedura per il caricamento dei dataset open data e metadati sul portale del comune di Palermo 
+################################################################################################
+
+Questo breve manuale descrive le procedure che i referenti tecnici e tematici open data degli uffici devono seguire passo passo per caricare i dataset nel portale comunale del comune di Palermo \ |LINK1|\ .
+
+
 .. toctree:: 
     :maxdepth: 3
     :caption: Indice 
 
     index
 
-.. _h79384848122f38796644634b22416366:
-
-Procedura per il caricamento dei dataset open data e metadati sul portale del comune di Palermo 
-################################################################################################
-
 
 ..  seealso:: 
 
     \ |STYLE0|\ 
     
-    Ciro Spataro - \ |LINK1|\  - tel. 091.7407340
+    Ciro Spataro - \ |LINK2|\  - tel. 091.7407340
     
     Settore Servizi alla città - Servizio Innovazione - U.O. Transizione al digitale
 
@@ -24,11 +27,11 @@ Procedura per il caricamento dei dataset open data e metadati sul portale del co
 Il portale open data comunale
 =============================
 
-Il portale \ |LINK2|\  è il nuovo portale open data del comune di Palermo operativo dal dicembre 2017, in sostituzione della precedente versione \ |LINK3|\ .
+Il portale \ |LINK3|\  è il nuovo portale open data del comune di Palermo operativo dal dicembre 2017, in sostituzione della precedente versione \ |LINK4|\ .
 
-Il nuovo portale è conforme allo standard nazionale DCAT_AP_IT delle Linee Guida nazionali AGID per la valorizzazione del patrimonio informativo pubblico. Essere per un portale istituzionale conforme allo standard nazionale DCAT_AP_IT significa che i dataset del portale open data del comune di Palermo sono automaticamente esposti nel portale nazionale open data \ |LINK4|\  upe sempre automaticamente vengono esposti nel portale europeo dei dati in formato aperto \ |LINK5|\ . 
+Il nuovo portale è conforme allo standard nazionale DCAT_AP_IT delle Linee Guida nazionali AGID per la valorizzazione del patrimonio informativo pubblico. Essere per un portale istituzionale conforme allo standard nazionale DCAT_AP_IT significa che i dataset del portale open data del comune di Palermo sono automaticamente esposti nel portale nazionale open data \ |LINK5|\  upe sempre automaticamente vengono esposti nel portale europeo dei dati in formato aperto \ |LINK6|\ . 
 
-Le procedure di caricamento dei dataset e dei metadati rispetto alla vecchia versione del portale sono mutate anche se non sono stravolte, e procedere al caricamento con il nuovo pannello di controllo risulta anche un attività più semplice.
+Le procedure di caricamento dei dataset e dei metadati rispetto alla vecchia versione del portale sono mutate anche se non sono stravolte, e procedere al caricamento con il nuovo pannello di controllo risulta anche un’attività più semplice.
 
 \ |STYLE1|\ 
 
@@ -37,7 +40,7 @@ Le procedure di caricamento dei dataset e dei metadati rispetto alla vecchia ver
 Accesso al pannello di controllo
 ================================
 
-Per accedere al pannello di controllo, abilitante al caricamento dei dataset e dei metadati, andare al link \ |LINK6|\  (figura 1).
+Per accedere al pannello di controllo, abilitante al caricamento dei dataset e dei metadati, andare al link \ |LINK7|\  (figura 1).
 
 Cliccando sulla freccia rossa si aprono i campi per l’inserimento del numero della matricola e della password.
 
@@ -252,7 +255,7 @@ Cliccando su questa icona si ha la visualizzazione del dataset.
 
 ..  Attention:: 
 
-    Una volta effettuato il caricamento del dataset può capitare che lo stesso caricamento non sia andato a buon fine, in questo caso \ |STYLE23|\  di: file caricato con il nome \ |STYLE24|\ 
+    Una volta effettuato il caricamento del dataset sul pannello di controllo può capitare che lo stesso caricamento non sia andato a buon fine, in questo caso \ |STYLE23|\  di: file caricato con il nome \ |STYLE24|\ 
     
     Significa che il dataset, in formato CSV, non supera la validazione del pannello di caricamento.
 
@@ -263,7 +266,7 @@ Cliccando su questa icona si ha la visualizzazione del dataset.
 Il dataset in formato CSV
 =========================
 
-Se il formato del dataset è ``CSV`` è auspicabile impostare come separatore di campi, il “punto e virgola” ``;`` al fine di permettere la validazione con esito positivo  dello stesso dataset da parte del software che gestisce il caricamento online.
+Se il formato del dataset è di tipo ``CSV`` è auspicabile impostare come separatore di campi, il “punto e virgola” ``;`` al fine di permettere la validazione con esito positivo dello stesso dataset da parte del software che gestisce il caricamento online sul portale open data del comune.
 
 \ |STYLE26|\ 
 
@@ -277,9 +280,9 @@ Validazione dei formati CSV prima del caricamento
 
     Al fine di evitare quanto sopra indicato  è consigliabile, prima di effettuare il caricamento del dataset nel pannello di controllo, sottoporre il dataset ad una \ |STYLE27|\  da far fare ad un validatore online. Ecco due esempi di validatori online:
     
-    * \ |LINK7|\  (si procede, quindi, a caricare il file \ |STYLE28|\  in questo sito, seguendo le indicazioni del sito. Premendo il tasto ``VALIDATE`` si avrà la restituzione degli eventuali errori con la riga in cui si trovano tali errori, se presenti nel dataset).
+    * \ |LINK8|\  (si procede, quindi, a caricare il file \ |STYLE28|\  in questo sito, seguendo le indicazioni del sito. Premendo il tasto ``VALIDATE`` si avrà la restituzione degli eventuali errori con la riga in cui si trovano tali errori, se presenti nel dataset).
     
-    * \ |LINK8|\ . 
+    * \ |LINK9|\ . 
     I due siti permettono di identificare e correggere eventuali errori nel dataset in formato \ |STYLE29|\  e solo in seguito si continua con il caricamento nel pannello di controllo del portale open data.
 
 \ |STYLE30|\ 
@@ -289,7 +292,7 @@ Validazione dei formati CSV prima del caricamento
 Supporto nelle procedure di caricamento
 =======================================
 
-[Per eventuali problemi riscontrati in questa procedura di validazione del dataset, si potrà sempre fare riferimento, per aiuto, a Ciro Spataro \ |LINK9|\  - tel. 0917407340] 
+[Per eventuali problemi riscontrati in questa procedura di validazione del dataset, si potrà sempre fare riferimento, per aiuto, a Ciro Spataro \ |LINK10|\  - tel. 0917407340] 
 
 
 .. bottom of content
@@ -360,93 +363,97 @@ Supporto nelle procedure di caricamento
 
 .. |LINK1| raw:: html
 
-    <a href="mailto:c.spataro@comune.palermo.it">c.spataro@comune.palermo.it</a>
+    <a href="https://opendata.comune.palermo.it/" target="_blank">https://opendata.comune.palermo.it</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://opendata.comune.palermo.it/" target="_blank">https://opendata.comune.palermo.it/</a>
+    <a href="mailto:c.spataro@comune.palermo.it">c.spataro@comune.palermo.it</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata.php" target="_blank">https://www.comune.palermo.it/opendata.php</a>
+    <a href="https://opendata.comune.palermo.it/" target="_blank">https://opendata.comune.palermo.it/</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://www.dati.gov.it/" target="_blank">https://www.dati.gov.it/</a>
+    <a href="https://www.comune.palermo.it/opendata.php" target="_blank">https://www.comune.palermo.it/opendata.php</a>
 
 .. |LINK5| raw:: html
 
-    <a href="http://europeandataportal.eu" target="_blank">http://europeandataportal.eu</a>
+    <a href="https://www.dati.gov.it/" target="_blank">https://www.dati.gov.it/</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://www.comune.palermo.it/admin/" target="_blank">https://www.comune.palermo.it/admin/</a>
+    <a href="http://europeandataportal.eu" target="_blank">http://europeandataportal.eu</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://csvlint.io/" target="_blank">https://csvlint.io</a>
+    <a href="https://www.comune.palermo.it/admin/" target="_blank">https://www.comune.palermo.it/admin/</a>
 
 .. |LINK8| raw:: html
 
-    <a href="https://try.goodtables.io/" target="_blank">https://try.goodtables.io</a>
+    <a href="https://csvlint.io/" target="_blank">https://csvlint.io</a>
 
 .. |LINK9| raw:: html
+
+    <a href="https://try.goodtables.io/" target="_blank">https://try.goodtables.io</a>
+
+.. |LINK10| raw:: html
 
     <a href="mailto:c.spataro@comune.palermo.it">c.spataro@comune.palermo.it</a>
 
 
-.. |IMG1| image:: static/index_1.png
+.. |IMG1| image:: static/index_-_caricamento_dataset_opendata_comunePalermo_1.png
    :height: 392 px
    :width: 568 px
 
-.. |IMG2| image:: static/index_2.png
+.. |IMG2| image:: static/index_-_caricamento_dataset_opendata_comunePalermo_2.png
    :height: 378 px
    :width: 920 px
 
-.. |IMG3| image:: static/index_3.png
+.. |IMG3| image:: static/index_-_caricamento_dataset_opendata_comunePalermo_3.png
    :height: 322 px
    :width: 260 px
 
-.. |IMG4| image:: static/index_4.png
+.. |IMG4| image:: static/index_-_caricamento_dataset_opendata_comunePalermo_4.png
    :height: 364 px
    :width: 266 px
 
-.. |IMG5| image:: static/index_5.png
+.. |IMG5| image:: static/index_-_caricamento_dataset_opendata_comunePalermo_5.png
    :height: 808 px
    :width: 430 px
 
-.. |IMG6| image:: static/index_6.png
+.. |IMG6| image:: static/index_-_caricamento_dataset_opendata_comunePalermo_6.png
    :height: 354 px
    :width: 472 px
 
-.. |IMG7| image:: static/index_7.png
+.. |IMG7| image:: static/index_-_caricamento_dataset_opendata_comunePalermo_7.png
    :height: 32 px
    :width: 452 px
 
-.. |IMG8| image:: static/index_8.png
+.. |IMG8| image:: static/index_-_caricamento_dataset_opendata_comunePalermo_8.png
    :height: 372 px
    :width: 325 px
 
-.. |IMG9| image:: static/index_9.png
+.. |IMG9| image:: static/index_-_caricamento_dataset_opendata_comunePalermo_9.png
    :height: 386 px
    :width: 454 px
 
-.. |IMG10| image:: static/index_10.png
+.. |IMG10| image:: static/index_-_caricamento_dataset_opendata_comunePalermo_10.png
    :height: 370 px
    :width: 912 px
 
-.. |IMG11| image:: static/index_11.png
+.. |IMG11| image:: static/index_-_caricamento_dataset_opendata_comunePalermo_11.png
    :height: 397 px
    :width: 592 px
 
-.. |IMG12| image:: static/index_12.png
+.. |IMG12| image:: static/index_-_caricamento_dataset_opendata_comunePalermo_12.png
    :height: 324 px
    :width: 914 px
 
-.. |IMG13| image:: static/index_13.png
+.. |IMG13| image:: static/index_-_caricamento_dataset_opendata_comunePalermo_13.png
    :height: 137 px
    :width: 142 px
 
-.. |IMG14| image:: static/index_14.png
+.. |IMG14| image:: static/index_-_caricamento_dataset_opendata_comunePalermo_14.png
    :height: 97 px
    :width: 568 px
