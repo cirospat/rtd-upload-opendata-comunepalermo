@@ -272,13 +272,15 @@ Se il formato del dataset è ``CSV`` è auspicabile impostare come separatore di
 Validazione dei formati CSV prima del caricamento
 -------------------------------------------------
 
-Al fine di evitare quanto sopra indicato  è consigliabile, prima di effettuare il caricamento del dataset nel pannello di controllo, sottoporre il dataset ad una \ |STYLE27|\  da far fare ad un validatore online. Ecco due esempi di validatori online:
 
-* \ |LINK7|\  (si procede, quindi, a caricare il file \ |STYLE28|\  in questo sito, seguendo le indicazioni del sito. Premendo il tasto ``VALIDATE`` si avrà la restituzione degli eventuali errori con la riga in cui si trovano tali errori, se presenti nel dataset).
+..  Important:: 
 
-* \ |LINK8|\ . 
-
-I due siti permettono di identificare e correggere eventuali errori nel dataset in formato \ |STYLE29|\  e solo in seguito si continua con il caricamento nel pannello di controllo del portale open data.
+    Al fine di evitare quanto sopra indicato  è consigliabile, prima di effettuare il caricamento del dataset nel pannello di controllo, sottoporre il dataset ad una \ |STYLE27|\  da far fare ad un validatore online. Ecco due esempi di validatori online:
+    
+    * \ |LINK7|\  (si procede, quindi, a caricare il file \ |STYLE28|\  in questo sito, seguendo le indicazioni del sito. Premendo il tasto ``VALIDATE`` si avrà la restituzione degli eventuali errori con la riga in cui si trovano tali errori, se presenti nel dataset).
+    
+    * \ |LINK8|\ . 
+    I due siti permettono di identificare e correggere eventuali errori nel dataset in formato \ |STYLE29|\  e solo in seguito si continua con il caricamento nel pannello di controllo del portale open data.
 
 \ |STYLE30|\ 
 
