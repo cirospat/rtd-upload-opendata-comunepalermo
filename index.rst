@@ -4,7 +4,7 @@
 Procedura per il caricamento dei dataset open data e metadati sul portale del comune di Palermo 
 ################################################################################################
 
-Questo breve manuale descrive le procedure che i referenti tecnici e tematici open data degli uffici devono seguire passo passo per caricare i dataset nel portale comunale del comune di Palermo \ |LINK1|\ .
+Questo breve manuale descrive le procedure che i referenti tecnici e tematici open data degli uffici devono seguire passo passo per caricare i dataset nel portale del comune di Palermo \ |LINK1|\ .
 
 
 .. toctree:: 
