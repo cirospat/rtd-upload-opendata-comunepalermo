@@ -112,6 +112,13 @@ Quindi è possibile cominciare a creare un \ |STYLE11|\ , cliccando sul tasto az
 
 Si inizia, quindi a compilare i campi per la formazione dei metadati (figura 6).
 
+.. _h1b77a4734687d2d5f192f1a5a356510:
+
+Campo TAG
+=========
+
+Nella pagina del metadato, particolare attenzione deve essere posta nella compilazione del campo TAG. Bisogna inserire le parole di TAG, separate da virgola ``,`` e seguite da uno spazio, poi di nuovo la parola del TAG, seguita da ``,`` e seguita da spazio, e così via nel caso si debbano inserire due o più tag.
+
 Una volta terminata la compilazione dei campi dei metadati, si clicca in basso su “\ |STYLE14|\ ”.
 
 
@@ -268,7 +275,13 @@ Il dataset in formato CSV
 
 Se il formato del dataset è di tipo ``CSV`` è auspicabile impostare come separatore di campi, il “punto e virgola” ``;`` al fine di permettere la validazione con esito positivo dello stesso dataset da parte del software che gestisce il caricamento online sul portale open data del comune.
 
-\ |STYLE43|\ 
+
+..  Hint:: 
+
+    Un buon articolo che tratta l’argomento del file in formato CSV è disponibile a questo \ |LINK9|\ .
+    (\ |STYLE43|\ ).
+
+\ |STYLE44|\ 
 
 .. _h5864f125f7387b28793484c584721:
 
@@ -278,21 +291,21 @@ Validazione dei formati CSV prima del caricamento
 
 ..  Important:: 
 
-    Al fine di evitare quanto sopra indicato  è consigliabile, prima di effettuare il caricamento del dataset nel pannello di controllo, sottoporre il dataset ad una \ |STYLE44|\  da far fare ad un validatore online. Ecco due esempi di validatori online:
+    Al fine di evitare quanto sopra indicato  è consigliabile, prima di effettuare il caricamento del dataset nel pannello di controllo, sottoporre il dataset ad una \ |STYLE45|\  da far fare ad un validatore online. Ecco due esempi di validatori online:
     
-    * \ |LINK9|\  (si procede, quindi, a caricare il file \ |STYLE45|\  in questo sito, seguendo le indicazioni del sito. Premendo il tasto ``VALIDATE`` si avrà la restituzione degli eventuali errori con la riga in cui si trovano tali errori, se presenti nel dataset).
+    * \ |LINK10|\  (si procede, quindi, a caricare il file \ |STYLE46|\  in questo sito, seguendo le indicazioni del sito. Premendo il tasto ``VALIDATE`` si avrà la restituzione degli eventuali errori con la riga in cui si trovano tali errori, se presenti nel dataset).
     
-    * \ |LINK10|\ . 
-    I due siti permettono di identificare e correggere eventuali errori nel dataset in formato \ |STYLE46|\  e solo in seguito si continua con il caricamento nel pannello di controllo del portale open data.
+    * \ |LINK11|\ . 
+    I due siti permettono di identificare e correggere eventuali errori nel dataset in formato \ |STYLE47|\  e solo in seguito si continua con il caricamento nel pannello di controllo del portale open data.
 
-\ |STYLE47|\ 
+\ |STYLE48|\ 
 
 .. _h776b2b5d2452155273f43c233d771:
 
 Supporto nelle procedure di caricamento
 =======================================
 
-[Per eventuali problemi riscontrati in questa procedura di validazione del dataset, si potrà sempre fare riferimento, per aiuto, a Ciro Spataro \ |LINK11|\  - tel. 0917407340] 
+[Per eventuali problemi riscontrati in questa procedura di validazione del dataset, si potrà sempre fare riferimento, per aiuto, a Ciro Spataro \ |LINK12|\  - tel. 0917407340] 
 
 
 .. bottom of content
@@ -384,15 +397,17 @@ Supporto nelle procedure di caricamento
 
 .. |STYLE42| replace:: **↓**
 
-.. |STYLE43| replace:: **↓**
+.. |STYLE43| replace:: *File CSV: cosa sono, come si aprono e come crearli. Impariamo cosa sono i file CSV, come sono strutturati e quali strumenti abbiamo a disposizione per aprirli e crearne di nuovi*
 
-.. |STYLE44| replace:: **validazione**
+.. |STYLE44| replace:: **↓**
 
-.. |STYLE45| replace:: **CSV**
+.. |STYLE45| replace:: **validazione**
 
 .. |STYLE46| replace:: **CSV**
 
-.. |STYLE47| replace:: **↓**
+.. |STYLE47| replace:: **CSV**
+
+.. |STYLE48| replace:: **↓**
 
 
 .. |LINK1| raw:: html
@@ -429,13 +444,17 @@ Supporto nelle procedure di caricamento
 
 .. |LINK9| raw:: html
 
-    <a href="https://csvlint.io/" target="_blank">https://csvlint.io</a>
+    <a href="https://www.html.it/articoli/file-csv-cosa-sono-come-si-aprono-e-come-crearli/" target="_blank">link</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://try.goodtables.io/" target="_blank">https://try.goodtables.io</a>
+    <a href="https://csvlint.io/" target="_blank">https://csvlint.io</a>
 
 .. |LINK11| raw:: html
+
+    <a href="https://try.goodtables.io/" target="_blank">https://try.goodtables.io</a>
+
+.. |LINK12| raw:: html
 
     <a href="mailto:c.spataro@comune.palermo.it">c.spataro@comune.palermo.it</a>
 
