@@ -281,6 +281,10 @@ Se il formato del dataset è di tipo ``CSV`` è auspicabile impostare come separ
     Un buon articolo che tratta l’argomento del file in formato CSV è disponibile a questo \ |LINK9|\ .
     (\ |STYLE43|\ ).
 
+Al fine di ottenere un file CSV con il “punto e virgola” ``;``  come separatore dei campi è possibile vedere questo brevissimo tutorial:
+
+|REPLACE1|
+
 \ |STYLE44|\ 
 
 .. _h5864f125f7387b28793484c584721:
@@ -409,6 +413,11 @@ Supporto nelle procedure di caricamento
 
 .. |STYLE48| replace:: **↓**
 
+
+.. |REPLACE1| raw:: html
+
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/0JLvR4lCh-k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    LibreOffice Calc: cambiare il separatore del CSV
 
 .. |LINK1| raw:: html
 
