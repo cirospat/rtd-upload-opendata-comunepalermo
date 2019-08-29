@@ -285,6 +285,10 @@ Al fine di ottenere un file CSV con il “punto e virgola” ``;``  come separat
 
 |REPLACE1|
 
+Nel fare questa operazione, disabilitare l'interpretazione del tipo campo all'apertura del CSV (impostare come "testo" tutti campi del CSV),  come si vede nel video di seguito:
+
+|REPLACE2|
+
 \ |STYLE44|\ 
 
 .. _h5864f125f7387b28793484c584721:
@@ -418,6 +422,10 @@ Supporto nelle procedure di caricamento
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/0JLvR4lCh-k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     LibreOffice Calc: cambiare il separatore del CSV
+.. |REPLACE2| raw:: html
+
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/LI5izgQisjA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    LibreOffice Calc: disabilitare l'interpretazione del tipo campo all'apertura del CSV
 
 .. |LINK1| raw:: html
 
